@@ -1,0 +1,9 @@
+// Calcular el salario neto ( a cancelar ) de un empleado después de descuentos
+
+1. Inicio  
+2. Se pide el salario total del empleado.  
+3. Se pide el porcentaje de descuento por impuestos.  
+4. Se calcula el monto de descuento multiplicando el salario total por el porcentaje de impuestos.  
+5. Se calcula el salario neto restando el descuento al salario total.  
+6. Se muestra el salario neto del empleado.  
+7. Fin  
